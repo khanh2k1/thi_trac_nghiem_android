@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/border.xml" value="0.176" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/drop_up_down.xml" value="0.1395" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1695" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1575" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1635" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/list_item_background.xml" value="0.139" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_bg_10_grey.xml" value="0.1365" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_bg_30.xml" value="0.2375" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_bg_70_white.xml" value="0.16" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_blue_10.xml" value="0.239" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_blue_20.xml" value="0.2375" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_white.xml" value="0.239" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/radius_white_20.xml" value="0.2375" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/round_textview_background.xml" value="0.1695" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/drawable/round_textview_background_2.xml" value="0.1265" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/font/font.xml" value="0.25462962962962965" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/font/nerd_font.xml" value="0.25462962962962965" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_create_option.xml" value="0.2526041666666667" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_create_question.xml" value="0.2526041666666667" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_dang_ki_tai_khoan.xml" value="0.35280797101449274" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_dang_nhap.xml" value="0.29483695652173914" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_fragment_quetstion.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_list_question.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_option.xml" value="0.253125" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_options.xml" value="0.109375" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_quen_mat_khau.xml" value="0.33" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_tab.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_tab_tai_khoan.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_thi.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/activity_trang_chu.xml" value="0.33" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/answer_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/bottom_dialog_list_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_create_question.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_question.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_question2.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_question_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_questions_bottom_dialog.xml" value="0.264" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_tab1.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_tab2.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_tab3.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_tab4.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_tab_1.xml" value="0.12158054711246201" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/fragment_trang_chu.xml" value="0.25" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/main.xml" value="0.253125" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/main_activity.xml" value="0.253125" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/options_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/question_activity.xml" value="0.253125" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/question_add_row.xml" value="0.253125" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/row_add_option.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/row_add_question_status.xml" value="0.25416666666666665" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/row_create_option.xml" value="0.2526041666666667" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/layout/sample_my_view.xml" value="0.1480978260869565" />
+        <entry key="..\:/khanh_giua_ki_android/app/src/main/res/menu/menu_navigation.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
